@@ -6,9 +6,26 @@ import {
 
 let modelPromise: Promise<FaceLandmarker> | undefined;
 
+const XNNPACK_INFO =
+  "INFO: Created TensorFlow Lite XNNPACK delegate for CPU.";
+
+async function withFilteredXnnpackInfo<T>(action: () => Promise<T>): Promise<T> {
+  const previousError = console.error;
+  console.error = (...args: Parameters<typeof console.error>) => {
+    if (args.length === 1 && args[0] === XNNPACK_INFO) return;
+    previousError.apply(console, args);
+  };
+
+  try {
+    return await action();
+  } finally {
+    console.error = previousError;
+  }
+}
+
 export function getFaceLandmarker(): Promise<FaceLandmarker> {
   if (!modelPromise) {
-    modelPromise = (async () => {
+    modelPromise = withFilteredXnnpackInfo(async () => {
       const files = await FilesetResolver.forVisionTasks("/mediapipe/wasm");
       try {
         return await FaceLandmarker.createFromOptions(files, {
@@ -33,7 +50,7 @@ export function getFaceLandmarker(): Promise<FaceLandmarker> {
           outputFacialTransformationMatrixes: true,
         });
       }
-    })().catch((error: unknown) => {
+    }).catch((error: unknown) => {
       modelPromise = undefined;
       throw error;
     });

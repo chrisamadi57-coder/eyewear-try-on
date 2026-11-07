@@ -28,6 +28,7 @@ export default function TryPage() {
   const streamRef = useRef<MediaStream | null>(null);
   const [consented, setConsented] = useState(false);
   const [showPrivacy, setShowPrivacy] = useState(false);
+  const [showFitDetails, setShowFitDetails] = useState(false);
   const [error, setError] = useState("");
   const [photo, setPhoto] = useState<string | null>(null);
   const [live, setLive] = useState(false);
@@ -86,6 +87,7 @@ export default function TryPage() {
     const image = new Image();
     image.onload = async () => {
       if (cancelled) return;
+      setShowFitDetails(false);
       setPhotoSize([image.naturalWidth, image.naturalHeight]);
       try {
         setStatus("Finding your eyes…");
@@ -200,6 +202,7 @@ export default function TryPage() {
     setPhoto(url);
     setAlignment(null);
     setFitSummary(null);
+    setShowFitDetails(false);
     stop();
     setLive(false);
     setStatus("Photo ready. Pick a frame to preview.");
@@ -210,6 +213,7 @@ export default function TryPage() {
     setPhoto(null);
     setAlignment(null);
     setFitSummary(null);
+    setShowFitDetails(false);
     setStatus("Choose a photo or start your camera.");
   }
 
@@ -258,6 +262,17 @@ export default function TryPage() {
               >
                 <Trash2 size={16} />
                 Delete photo
+              </button>
+            )}
+            {fitSummary && (
+              <button
+                className="button secondary"
+                aria-expanded={showFitDetails}
+                aria-controls="fit-recommendations"
+                onClick={() => setShowFitDetails((visible) => !visible)}
+                style={{ background: "rgba(255,255,255,.2)", color: "white" }}
+              >
+                {showFitDetails ? "Hide fit details" : "Fit details"}
               </button>
             )}
           </div>
@@ -400,8 +415,9 @@ export default function TryPage() {
         >
           {error || status}
         </div>
-        {photo && fitSummary && (
+        {photo && fitSummary && showFitDetails && (
           <section
+            id="fit-recommendations"
             className="glass"
             aria-label="Fit recommendations"
             style={{
