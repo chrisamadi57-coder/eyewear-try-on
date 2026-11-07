@@ -1,0 +1,1225 @@
+[
+  {
+    "id": "frame-01",
+    "slug": "aviator-classic",
+    "name": "Aviator Classic",
+    "tagline": "A modern icon, in a considered finish.",
+    "description": "Designed for a comfortable, balanced fit, the Aviator Classic pairs considered proportions with an easy-to-wear finish.",
+    "category": "sunglasses",
+    "shape": "aviator",
+    "material": "metal",
+    "price": 25000,
+    "inStock": true,
+    "featured": true,
+    "suitsFaceShapes": ["oval", "heart"],
+    "dims": {
+      "frameWidthMm": 140,
+      "lensWidthMm": 58,
+      "lensHeightMm": 50,
+      "bridgeMm": 14,
+      "templeLengthMm": 145
+    },
+    "variants": [
+      {
+        "id": "gold-green",
+        "colorName": "Gold / Green",
+        "swatchHex": "#c29a54",
+        "frameImage": "/eyewear/frames/aviator-classic-gold-green.webp",
+        "productImage": "/eyewear/products/aviator-classic-gold-green.webp",
+        "thumbImage": "/eyewear/thumbs/aviator-classic-gold-green.webp",
+        "templeColorHex": "#8c6e3b",
+        "lensTint": {
+          "hex": "#344b41",
+          "opacity": 0.42
+        },
+        "anchors": {
+          "leftLensCenterPx": [411.75, 412],
+          "rightLensCenterPx": [1235.25, 412],
+          "bridgeCenterPx": [823.5, 329.6],
+          "imageSizePx": [1647, 824]
+        }
+      },
+      {
+        "id": "silver-grey",
+        "colorName": "Silver / Grey",
+        "swatchHex": "#b7bbc1",
+        "frameImage": "/eyewear/frames/aviator-classic-silver-grey.webp",
+        "productImage": "/eyewear/products/aviator-classic-silver-grey.webp",
+        "thumbImage": "/eyewear/thumbs/aviator-classic-silver-grey.webp",
+        "templeColorHex": "#999da3",
+        "lensTint": {
+          "hex": "#68717a",
+          "opacity": 0.42
+        },
+        "anchors": {
+          "leftLensCenterPx": [411.75, 412],
+          "rightLensCenterPx": [1235.25, 412],
+          "bridgeCenterPx": [823.5, 329.6],
+          "imageSizePx": [1647, 824]
+        }
+      },
+      {
+        "id": "gunmetal-brown",
+        "colorName": "Gunmetal / Brown",
+        "swatchHex": "#55565b",
+        "frameImage": "/eyewear/frames/aviator-classic-gunmetal-brown.webp",
+        "productImage": "/eyewear/products/aviator-classic-gunmetal-brown.webp",
+        "thumbImage": "/eyewear/thumbs/aviator-classic-gunmetal-brown.webp",
+        "templeColorHex": "#6d6d73",
+        "lensTint": {
+          "hex": "#74533e",
+          "opacity": 0.42
+        },
+        "anchors": {
+          "leftLensCenterPx": [411.75, 412],
+          "rightLensCenterPx": [1235.25, 412],
+          "bridgeCenterPx": [823.5, 329.6],
+          "imageSizePx": [1647, 824]
+        }
+      }
+    ]
+  },
+  {
+    "id": "frame-02",
+    "slug": "wayfarer-bold",
+    "name": "Wayfarer Bold",
+    "tagline": "Easy confidence for every day.",
+    "description": "Designed for a comfortable, balanced fit, the Wayfarer Bold pairs considered proportions with an easy-to-wear finish.",
+    "category": "sunglasses",
+    "shape": "wayfarer",
+    "material": "acetate",
+    "price": 27500,
+    "inStock": true,
+    "featured": true,
+    "suitsFaceShapes": ["oval", "heart"],
+    "dims": {
+      "frameWidthMm": 144,
+      "lensWidthMm": 52,
+      "lensHeightMm": 42,
+      "bridgeMm": 18,
+      "templeLengthMm": 145
+    },
+    "variants": [
+      {
+        "id": "gloss-black",
+        "colorName": "Gloss Black",
+        "swatchHex": "#252528",
+        "frameImage": "/eyewear/frames/wayfarer-bold-gloss-black.webp",
+        "productImage": "/eyewear/products/wayfarer-bold-gloss-black.webp",
+        "thumbImage": "/eyewear/thumbs/wayfarer-bold-gloss-black.webp",
+        "templeColorHex": "#171719",
+        "lensTint": {
+          "hex": "#342e2d",
+          "opacity": 0.42
+        },
+        "anchors": {
+          "leftLensCenterPx": [423.5, 423.5],
+          "rightLensCenterPx": [1270.5, 423.5],
+          "bridgeCenterPx": [847, 338.8],
+          "imageSizePx": [1694, 847]
+        }
+      },
+      {
+        "id": "tortoise",
+        "colorName": "Tortoise",
+        "swatchHex": "#8c5934",
+        "frameImage": "/eyewear/frames/wayfarer-bold-tortoise.webp",
+        "productImage": "/eyewear/products/wayfarer-bold-tortoise.webp",
+        "thumbImage": "/eyewear/thumbs/wayfarer-bold-tortoise.webp",
+        "templeColorHex": "#56381f",
+        "lensTint": {
+          "hex": "#74472b",
+          "opacity": 0.42
+        },
+        "anchors": {
+          "leftLensCenterPx": [423.5, 423.5],
+          "rightLensCenterPx": [1270.5, 423.5],
+          "bridgeCenterPx": [847, 338.8],
+          "imageSizePx": [1694, 847]
+        }
+      },
+      {
+        "id": "navy",
+        "colorName": "Navy",
+        "swatchHex": "#273c5a",
+        "frameImage": "/eyewear/frames/wayfarer-bold-navy.webp",
+        "productImage": "/eyewear/products/wayfarer-bold-navy.webp",
+        "thumbImage": "/eyewear/thumbs/wayfarer-bold-navy.webp",
+        "templeColorHex": "#1c2d46",
+        "lensTint": {
+          "hex": "#303c51",
+          "opacity": 0.42
+        },
+        "anchors": {
+          "leftLensCenterPx": [423.5, 423.5],
+          "rightLensCenterPx": [1270.5, 423.5],
+          "bridgeCenterPx": [847, 338.8],
+          "imageSizePx": [1694, 847]
+        }
+      }
+    ]
+  },
+  {
+    "id": "frame-03",
+    "slug": "windsor-round",
+    "name": "Windsor Round",
+    "tagline": "A thoughtful detail makes all the difference.",
+    "description": "Designed for a comfortable, balanced fit, the Windsor Round pairs considered proportions with an easy-to-wear finish.",
+    "category": "optical",
+    "shape": "round",
+    "material": "metal",
+    "price": 30000,
+    "inStock": true,
+    "featured": true,
+    "suitsFaceShapes": ["square", "oblong"],
+    "dims": {
+      "frameWidthMm": 136,
+      "lensWidthMm": 49,
+      "lensHeightMm": 49,
+      "bridgeMm": 21,
+      "templeLengthMm": 145
+    },
+    "variants": [
+      {
+        "id": "gold",
+        "colorName": "Gold",
+        "swatchHex": "#c5a15c",
+        "frameImage": "/eyewear/frames/windsor-round-gold.webp",
+        "productImage": "/eyewear/products/windsor-round-gold.webp",
+        "thumbImage": "/eyewear/thumbs/windsor-round-gold.webp",
+        "templeColorHex": "#927442",
+        "lensTint": {
+          "hex": "#78664d",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [400, 400],
+          "rightLensCenterPx": [1200, 400],
+          "bridgeCenterPx": [800, 320],
+          "imageSizePx": [1600, 800]
+        }
+      },
+      {
+        "id": "silver",
+        "colorName": "Silver",
+        "swatchHex": "#b9bdc2",
+        "frameImage": "/eyewear/frames/windsor-round-silver.webp",
+        "productImage": "/eyewear/products/windsor-round-silver.webp",
+        "thumbImage": "/eyewear/thumbs/windsor-round-silver.webp",
+        "templeColorHex": "#999da2",
+        "lensTint": {
+          "hex": "#777d83",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [400, 400],
+          "rightLensCenterPx": [1200, 400],
+          "bridgeCenterPx": [800, 320],
+          "imageSizePx": [1600, 800]
+        }
+      },
+      {
+        "id": "matte-black",
+        "colorName": "Matte Black",
+        "swatchHex": "#292a2d",
+        "frameImage": "/eyewear/frames/windsor-round-matte-black.webp",
+        "productImage": "/eyewear/products/windsor-round-matte-black.webp",
+        "thumbImage": "/eyewear/thumbs/windsor-round-matte-black.webp",
+        "templeColorHex": "#202124",
+        "lensTint": {
+          "hex": "#3c3d40",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [400, 400],
+          "rightLensCenterPx": [1200, 400],
+          "bridgeCenterPx": [800, 320],
+          "imageSizePx": [1600, 800]
+        }
+      }
+    ]
+  },
+  {
+    "id": "frame-04",
+    "slug": "cat-eye-muse",
+    "name": "Cat-Eye Muse",
+    "tagline": "A modern icon, in a considered finish.",
+    "description": "Designed for a comfortable, balanced fit, the Cat-Eye Muse pairs considered proportions with an easy-to-wear finish.",
+    "category": "sunglasses",
+    "shape": "cat-eye",
+    "material": "acetate",
+    "price": 32500,
+    "inStock": true,
+    "featured": true,
+    "suitsFaceShapes": ["oval", "square"],
+    "dims": {
+      "frameWidthMm": 140,
+      "lensWidthMm": 54,
+      "lensHeightMm": 45,
+      "bridgeMm": 16,
+      "templeLengthMm": 145
+    },
+    "variants": [
+      {
+        "id": "black",
+        "colorName": "Black",
+        "swatchHex": "#252528",
+        "frameImage": "/eyewear/frames/cat-eye-muse-black.webp",
+        "productImage": "/eyewear/products/cat-eye-muse-black.webp",
+        "thumbImage": "/eyewear/thumbs/cat-eye-muse-black.webp",
+        "templeColorHex": "#171719",
+        "lensTint": {
+          "hex": "#383334",
+          "opacity": 0.42
+        },
+        "anchors": {
+          "leftLensCenterPx": [411.75, 412],
+          "rightLensCenterPx": [1235.25, 412],
+          "bridgeCenterPx": [823.5, 329.6],
+          "imageSizePx": [1647, 824]
+        }
+      },
+      {
+        "id": "burgundy",
+        "colorName": "Burgundy",
+        "swatchHex": "#742f46",
+        "frameImage": "/eyewear/frames/cat-eye-muse-burgundy.webp",
+        "productImage": "/eyewear/products/cat-eye-muse-burgundy.webp",
+        "thumbImage": "/eyewear/thumbs/cat-eye-muse-burgundy.webp",
+        "templeColorHex": "#542337",
+        "lensTint": {
+          "hex": "#65404a",
+          "opacity": 0.42
+        },
+        "anchors": {
+          "leftLensCenterPx": [411.75, 412],
+          "rightLensCenterPx": [1235.25, 412],
+          "bridgeCenterPx": [823.5, 329.6],
+          "imageSizePx": [1647, 824]
+        }
+      },
+      {
+        "id": "tortoise",
+        "colorName": "Tortoise",
+        "swatchHex": "#8c5934",
+        "frameImage": "/eyewear/frames/cat-eye-muse-tortoise.webp",
+        "productImage": "/eyewear/products/cat-eye-muse-tortoise.webp",
+        "thumbImage": "/eyewear/thumbs/cat-eye-muse-tortoise.webp",
+        "templeColorHex": "#56381f",
+        "lensTint": {
+          "hex": "#74472b",
+          "opacity": 0.42
+        },
+        "anchors": {
+          "leftLensCenterPx": [411.75, 412],
+          "rightLensCenterPx": [1235.25, 412],
+          "bridgeCenterPx": [823.5, 329.6],
+          "imageSizePx": [1647, 824]
+        }
+      }
+    ]
+  },
+  {
+    "id": "frame-05",
+    "slug": "browline-heritage",
+    "name": "Browline Heritage",
+    "tagline": "Easy confidence for every day.",
+    "description": "Designed for a comfortable, balanced fit, the Browline Heritage pairs considered proportions with an easy-to-wear finish.",
+    "category": "optical",
+    "shape": "browline",
+    "material": "mixed",
+    "price": 35000,
+    "inStock": true,
+    "featured": false,
+    "suitsFaceShapes": ["round", "oblong"],
+    "dims": {
+      "frameWidthMm": 142,
+      "lensWidthMm": 50,
+      "lensHeightMm": 42,
+      "bridgeMm": 20,
+      "templeLengthMm": 145
+    },
+    "variants": [
+      {
+        "id": "black-gold",
+        "colorName": "Black / Gold",
+        "swatchHex": "#28282a",
+        "frameImage": "/eyewear/frames/browline-heritage-black-gold.webp",
+        "productImage": "/eyewear/products/browline-heritage-black-gold.webp",
+        "thumbImage": "/eyewear/thumbs/browline-heritage-black-gold.webp",
+        "templeColorHex": "#886d3a",
+        "lensTint": {
+          "hex": "#b99858",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [417.75, 418],
+          "rightLensCenterPx": [1253.25, 418],
+          "bridgeCenterPx": [835.5, 334.40000000000003],
+          "imageSizePx": [1671, 836]
+        }
+      },
+      {
+        "id": "tortoise-silver",
+        "colorName": "Tortoise / Silver",
+        "swatchHex": "#815431",
+        "frameImage": "/eyewear/frames/browline-heritage-tortoise-silver.webp",
+        "productImage": "/eyewear/products/browline-heritage-tortoise-silver.webp",
+        "thumbImage": "/eyewear/thumbs/browline-heritage-tortoise-silver.webp",
+        "templeColorHex": "#5e3c24",
+        "lensTint": {
+          "hex": "#aeb4ba",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [417.75, 418],
+          "rightLensCenterPx": [1253.25, 418],
+          "bridgeCenterPx": [835.5, 334.40000000000003],
+          "imageSizePx": [1671, 836]
+        }
+      },
+      {
+        "id": "navy-gold",
+        "colorName": "Navy / Gold",
+        "swatchHex": "#273c5a",
+        "frameImage": "/eyewear/frames/browline-heritage-navy-gold.webp",
+        "productImage": "/eyewear/products/browline-heritage-navy-gold.webp",
+        "thumbImage": "/eyewear/thumbs/browline-heritage-navy-gold.webp",
+        "templeColorHex": "#1c2d46",
+        "lensTint": {
+          "hex": "#c3a260",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [417.75, 418],
+          "rightLensCenterPx": [1253.25, 418],
+          "bridgeCenterPx": [835.5, 334.40000000000003],
+          "imageSizePx": [1671, 836]
+        }
+      }
+    ]
+  },
+  {
+    "id": "frame-06",
+    "slug": "square-edit",
+    "name": "Square Edit",
+    "tagline": "A thoughtful detail makes all the difference.",
+    "description": "Designed for a comfortable, balanced fit, the Square Edit pairs considered proportions with an easy-to-wear finish.",
+    "category": "optical",
+    "shape": "square",
+    "material": "acetate",
+    "price": 37500,
+    "inStock": true,
+    "featured": false,
+    "suitsFaceShapes": ["round", "heart"],
+    "dims": {
+      "frameWidthMm": 142,
+      "lensWidthMm": 52,
+      "lensHeightMm": 44,
+      "bridgeMm": 18,
+      "templeLengthMm": 145
+    },
+    "variants": [
+      {
+        "id": "black",
+        "colorName": "Black",
+        "swatchHex": "#252528",
+        "frameImage": "/eyewear/frames/square-edit-black.webp",
+        "productImage": "/eyewear/products/square-edit-black.webp",
+        "thumbImage": "/eyewear/thumbs/square-edit-black.webp",
+        "templeColorHex": "#171719",
+        "lensTint": {
+          "hex": "#39393b",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [417.75, 418],
+          "rightLensCenterPx": [1253.25, 418],
+          "bridgeCenterPx": [835.5, 334.40000000000003],
+          "imageSizePx": [1671, 836]
+        }
+      },
+      {
+        "id": "crystal-clear",
+        "colorName": "Crystal Clear",
+        "swatchHex": "#c8c9c6",
+        "frameImage": "/eyewear/frames/square-edit-crystal-clear.webp",
+        "productImage": "/eyewear/products/square-edit-crystal-clear.webp",
+        "thumbImage": "/eyewear/thumbs/square-edit-crystal-clear.webp",
+        "templeColorHex": "#a9aaa8",
+        "lensTint": {
+          "hex": "#9fa9a7",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [417.75, 418],
+          "rightLensCenterPx": [1253.25, 418],
+          "bridgeCenterPx": [835.5, 334.40000000000003],
+          "imageSizePx": [1671, 836]
+        }
+      },
+      {
+        "id": "olive",
+        "colorName": "Olive",
+        "swatchHex": "#60684d",
+        "frameImage": "/eyewear/frames/square-edit-olive.webp",
+        "productImage": "/eyewear/products/square-edit-olive.webp",
+        "thumbImage": "/eyewear/thumbs/square-edit-olive.webp",
+        "templeColorHex": "#454b3a",
+        "lensTint": {
+          "hex": "#6e725b",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [417.75, 418],
+          "rightLensCenterPx": [1253.25, 418],
+          "bridgeCenterPx": [835.5, 334.40000000000003],
+          "imageSizePx": [1671, 836]
+        }
+      }
+    ]
+  },
+  {
+    "id": "frame-07",
+    "slug": "slim-rectangle",
+    "name": "Slim Rectangle",
+    "tagline": "A modern icon, in a considered finish.",
+    "description": "Designed for a comfortable, balanced fit, the Slim Rectangle pairs considered proportions with an easy-to-wear finish.",
+    "category": "optical",
+    "shape": "rectangle",
+    "material": "metal",
+    "price": 40000,
+    "inStock": true,
+    "featured": false,
+    "suitsFaceShapes": ["round", "oval"],
+    "dims": {
+      "frameWidthMm": 138,
+      "lensWidthMm": 51,
+      "lensHeightMm": 36,
+      "bridgeMm": 18,
+      "templeLengthMm": 145
+    },
+    "variants": [
+      {
+        "id": "gunmetal",
+        "colorName": "Gunmetal",
+        "swatchHex": "#5c6065",
+        "frameImage": "/eyewear/frames/slim-rectangle-gunmetal.webp",
+        "productImage": "/eyewear/products/slim-rectangle-gunmetal.webp",
+        "thumbImage": "/eyewear/thumbs/slim-rectangle-gunmetal.webp",
+        "templeColorHex": "#47494d",
+        "lensTint": {
+          "hex": "#70767c",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [406, 406],
+          "rightLensCenterPx": [1218, 406],
+          "bridgeCenterPx": [812, 324.8],
+          "imageSizePx": [1624, 812]
+        }
+      },
+      {
+        "id": "black",
+        "colorName": "Black",
+        "swatchHex": "#252528",
+        "frameImage": "/eyewear/frames/slim-rectangle-black.webp",
+        "productImage": "/eyewear/products/slim-rectangle-black.webp",
+        "thumbImage": "/eyewear/thumbs/slim-rectangle-black.webp",
+        "templeColorHex": "#171719",
+        "lensTint": {
+          "hex": "#3c3d40",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [406, 406],
+          "rightLensCenterPx": [1218, 406],
+          "bridgeCenterPx": [812, 324.8],
+          "imageSizePx": [1624, 812]
+        }
+      },
+      {
+        "id": "rose-gold",
+        "colorName": "Rose Gold",
+        "swatchHex": "#bc8a7b",
+        "frameImage": "/eyewear/frames/slim-rectangle-rose-gold.webp",
+        "productImage": "/eyewear/products/slim-rectangle-rose-gold.webp",
+        "thumbImage": "/eyewear/thumbs/slim-rectangle-rose-gold.webp",
+        "templeColorHex": "#98695f",
+        "lensTint": {
+          "hex": "#ae8278",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [406, 406],
+          "rightLensCenterPx": [1218, 406],
+          "bridgeCenterPx": [812, 324.8],
+          "imageSizePx": [1624, 812]
+        }
+      }
+    ]
+  },
+  {
+    "id": "frame-08",
+    "slug": "oversized-luxe",
+    "name": "Oversized Luxe",
+    "tagline": "Easy confidence for every day.",
+    "description": "Designed for a comfortable, balanced fit, the Oversized Luxe pairs considered proportions with an easy-to-wear finish.",
+    "category": "sunglasses",
+    "shape": "oversized",
+    "material": "acetate",
+    "price": 42500,
+    "inStock": true,
+    "featured": false,
+    "suitsFaceShapes": ["oblong", "square"],
+    "dims": {
+      "frameWidthMm": 150,
+      "lensWidthMm": 58,
+      "lensHeightMm": 54,
+      "bridgeMm": 16,
+      "templeLengthMm": 145
+    },
+    "variants": [
+      {
+        "id": "black",
+        "colorName": "Black",
+        "swatchHex": "#252528",
+        "frameImage": "/eyewear/frames/oversized-luxe-black.webp",
+        "productImage": "/eyewear/products/oversized-luxe-black.webp",
+        "thumbImage": "/eyewear/thumbs/oversized-luxe-black.webp",
+        "templeColorHex": "#171719",
+        "lensTint": {
+          "hex": "#333235",
+          "opacity": 0.42
+        },
+        "anchors": {
+          "leftLensCenterPx": [441.25, 441.5],
+          "rightLensCenterPx": [1323.75, 441.5],
+          "bridgeCenterPx": [882.5, 353.20000000000005],
+          "imageSizePx": [1765, 883]
+        }
+      },
+      {
+        "id": "havana",
+        "colorName": "Havana",
+        "swatchHex": "#805331",
+        "frameImage": "/eyewear/frames/oversized-luxe-havana.webp",
+        "productImage": "/eyewear/products/oversized-luxe-havana.webp",
+        "thumbImage": "/eyewear/thumbs/oversized-luxe-havana.webp",
+        "templeColorHex": "#50351f",
+        "lensTint": {
+          "hex": "#72503a",
+          "opacity": 0.42
+        },
+        "anchors": {
+          "leftLensCenterPx": [441.25, 441.5],
+          "rightLensCenterPx": [1323.75, 441.5],
+          "bridgeCenterPx": [882.5, 353.20000000000005],
+          "imageSizePx": [1765, 883]
+        }
+      },
+      {
+        "id": "cream",
+        "colorName": "Cream",
+        "swatchHex": "#e1d5bc",
+        "frameImage": "/eyewear/frames/oversized-luxe-cream.webp",
+        "productImage": "/eyewear/products/oversized-luxe-cream.webp",
+        "thumbImage": "/eyewear/thumbs/oversized-luxe-cream.webp",
+        "templeColorHex": "#b8aa8f",
+        "lensTint": {
+          "hex": "#978f7d",
+          "opacity": 0.42
+        },
+        "anchors": {
+          "leftLensCenterPx": [441.25, 441.5],
+          "rightLensCenterPx": [1323.75, 441.5],
+          "bridgeCenterPx": [882.5, 353.20000000000005],
+          "imageSizePx": [1765, 883]
+        }
+      }
+    ]
+  },
+  {
+    "id": "frame-09",
+    "slug": "hex-form",
+    "name": "Hex Form",
+    "tagline": "A thoughtful detail makes all the difference.",
+    "description": "Designed for a comfortable, balanced fit, the Hex Form pairs considered proportions with an easy-to-wear finish.",
+    "category": "optical",
+    "shape": "hexagonal",
+    "material": "metal",
+    "price": 45000,
+    "inStock": true,
+    "featured": false,
+    "suitsFaceShapes": ["round", "oval"],
+    "dims": {
+      "frameWidthMm": 138,
+      "lensWidthMm": 50,
+      "lensHeightMm": 45,
+      "bridgeMm": 20,
+      "templeLengthMm": 145
+    },
+    "variants": [
+      {
+        "id": "gold",
+        "colorName": "Gold",
+        "swatchHex": "#c5a15c",
+        "frameImage": "/eyewear/frames/hex-form-gold.webp",
+        "productImage": "/eyewear/products/hex-form-gold.webp",
+        "thumbImage": "/eyewear/thumbs/hex-form-gold.webp",
+        "templeColorHex": "#927442",
+        "lensTint": {
+          "hex": "#78664d",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [406, 406],
+          "rightLensCenterPx": [1218, 406],
+          "bridgeCenterPx": [812, 324.8],
+          "imageSizePx": [1624, 812]
+        }
+      },
+      {
+        "id": "silver",
+        "colorName": "Silver",
+        "swatchHex": "#b9bdc2",
+        "frameImage": "/eyewear/frames/hex-form-silver.webp",
+        "productImage": "/eyewear/products/hex-form-silver.webp",
+        "thumbImage": "/eyewear/thumbs/hex-form-silver.webp",
+        "templeColorHex": "#999da2",
+        "lensTint": {
+          "hex": "#777d83",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [406, 406],
+          "rightLensCenterPx": [1218, 406],
+          "bridgeCenterPx": [812, 324.8],
+          "imageSizePx": [1624, 812]
+        }
+      },
+      {
+        "id": "black",
+        "colorName": "Black",
+        "swatchHex": "#252528",
+        "frameImage": "/eyewear/frames/hex-form-black.webp",
+        "productImage": "/eyewear/products/hex-form-black.webp",
+        "thumbImage": "/eyewear/thumbs/hex-form-black.webp",
+        "templeColorHex": "#171719",
+        "lensTint": {
+          "hex": "#39393b",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [406, 406],
+          "rightLensCenterPx": [1218, 406],
+          "bridgeCenterPx": [812, 324.8],
+          "imageSizePx": [1624, 812]
+        }
+      }
+    ]
+  },
+  {
+    "id": "frame-10",
+    "slug": "panto-vintage",
+    "name": "Panto Vintage",
+    "tagline": "A modern icon, in a considered finish.",
+    "description": "Designed for a comfortable, balanced fit, the Panto Vintage pairs considered proportions with an easy-to-wear finish.",
+    "category": "optical",
+    "shape": "panto",
+    "material": "acetate",
+    "price": 47500,
+    "inStock": true,
+    "featured": false,
+    "suitsFaceShapes": ["square", "oblong"],
+    "dims": {
+      "frameWidthMm": 140,
+      "lensWidthMm": 48,
+      "lensHeightMm": 42,
+      "bridgeMm": 20,
+      "templeLengthMm": 145
+    },
+    "variants": [
+      {
+        "id": "tortoise",
+        "colorName": "Tortoise",
+        "swatchHex": "#8c5934",
+        "frameImage": "/eyewear/frames/panto-vintage-tortoise.webp",
+        "productImage": "/eyewear/products/panto-vintage-tortoise.webp",
+        "thumbImage": "/eyewear/thumbs/panto-vintage-tortoise.webp",
+        "templeColorHex": "#56381f",
+        "lensTint": {
+          "hex": "#74472b",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [411.75, 412],
+          "rightLensCenterPx": [1235.25, 412],
+          "bridgeCenterPx": [823.5, 329.6],
+          "imageSizePx": [1647, 824]
+        }
+      },
+      {
+        "id": "honey",
+        "colorName": "Honey",
+        "swatchHex": "#b47c3e",
+        "frameImage": "/eyewear/frames/panto-vintage-honey.webp",
+        "productImage": "/eyewear/products/panto-vintage-honey.webp",
+        "thumbImage": "/eyewear/thumbs/panto-vintage-honey.webp",
+        "templeColorHex": "#8e5e2b",
+        "lensTint": {
+          "hex": "#a0784c",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [411.75, 412],
+          "rightLensCenterPx": [1235.25, 412],
+          "bridgeCenterPx": [823.5, 329.6],
+          "imageSizePx": [1647, 824]
+        }
+      },
+      {
+        "id": "black",
+        "colorName": "Black",
+        "swatchHex": "#252528",
+        "frameImage": "/eyewear/frames/panto-vintage-black.webp",
+        "productImage": "/eyewear/products/panto-vintage-black.webp",
+        "thumbImage": "/eyewear/thumbs/panto-vintage-black.webp",
+        "templeColorHex": "#171719",
+        "lensTint": {
+          "hex": "#39393b",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [411.75, 412],
+          "rightLensCenterPx": [1235.25, 412],
+          "bridgeCenterPx": [823.5, 329.6],
+          "imageSizePx": [1647, 824]
+        }
+      }
+    ]
+  },
+  {
+    "id": "frame-11",
+    "slug": "butterfly-glam",
+    "name": "Butterfly Glam",
+    "tagline": "Easy confidence for every day.",
+    "description": "Designed for a comfortable, balanced fit, the Butterfly Glam pairs considered proportions with an easy-to-wear finish.",
+    "category": "sunglasses",
+    "shape": "butterfly",
+    "material": "acetate",
+    "price": 50000,
+    "inStock": true,
+    "featured": false,
+    "suitsFaceShapes": ["oval", "square"],
+    "dims": {
+      "frameWidthMm": 148,
+      "lensWidthMm": 56,
+      "lensHeightMm": 50,
+      "bridgeMm": 16,
+      "templeLengthMm": 145
+    },
+    "variants": [
+      {
+        "id": "black",
+        "colorName": "Black",
+        "swatchHex": "#252528",
+        "frameImage": "/eyewear/frames/butterfly-glam-black.webp",
+        "productImage": "/eyewear/products/butterfly-glam-black.webp",
+        "thumbImage": "/eyewear/thumbs/butterfly-glam-black.webp",
+        "templeColorHex": "#171719",
+        "lensTint": {
+          "hex": "#333235",
+          "opacity": 0.42
+        },
+        "anchors": {
+          "leftLensCenterPx": [435.25, 435.5],
+          "rightLensCenterPx": [1305.75, 435.5],
+          "bridgeCenterPx": [870.5, 348.40000000000003],
+          "imageSizePx": [1741, 871]
+        }
+      },
+      {
+        "id": "rose",
+        "colorName": "Rose",
+        "swatchHex": "#b87d87",
+        "frameImage": "/eyewear/frames/butterfly-glam-rose.webp",
+        "productImage": "/eyewear/products/butterfly-glam-rose.webp",
+        "thumbImage": "/eyewear/thumbs/butterfly-glam-rose.webp",
+        "templeColorHex": "#99626c",
+        "lensTint": {
+          "hex": "#a87181",
+          "opacity": 0.42
+        },
+        "anchors": {
+          "leftLensCenterPx": [435.25, 435.5],
+          "rightLensCenterPx": [1305.75, 435.5],
+          "bridgeCenterPx": [870.5, 348.40000000000003],
+          "imageSizePx": [1741, 871]
+        }
+      },
+      {
+        "id": "tortoise",
+        "colorName": "Tortoise",
+        "swatchHex": "#8c5934",
+        "frameImage": "/eyewear/frames/butterfly-glam-tortoise.webp",
+        "productImage": "/eyewear/products/butterfly-glam-tortoise.webp",
+        "thumbImage": "/eyewear/thumbs/butterfly-glam-tortoise.webp",
+        "templeColorHex": "#56381f",
+        "lensTint": {
+          "hex": "#74472b",
+          "opacity": 0.42
+        },
+        "anchors": {
+          "leftLensCenterPx": [435.25, 435.5],
+          "rightLensCenterPx": [1305.75, 435.5],
+          "bridgeCenterPx": [870.5, 348.40000000000003],
+          "imageSizePx": [1741, 871]
+        }
+      }
+    ]
+  },
+  {
+    "id": "frame-12",
+    "slug": "shield-sport",
+    "name": "Shield Sport",
+    "tagline": "A thoughtful detail makes all the difference.",
+    "description": "Designed for a comfortable, balanced fit, the Shield Sport pairs considered proportions with an easy-to-wear finish.",
+    "category": "sunglasses",
+    "shape": "shield",
+    "material": "mixed",
+    "price": 52500,
+    "inStock": true,
+    "featured": false,
+    "suitsFaceShapes": ["oval", "oblong"],
+    "dims": {
+      "frameWidthMm": 150,
+      "lensWidthMm": 60,
+      "lensHeightMm": 52,
+      "bridgeMm": 0,
+      "templeLengthMm": 145
+    },
+    "variants": [
+      {
+        "id": "black-mirror",
+        "colorName": "Black / Mirror Blue",
+        "swatchHex": "#252629",
+        "frameImage": "/eyewear/frames/shield-sport-black-mirror.webp",
+        "productImage": "/eyewear/products/shield-sport-black-mirror.webp",
+        "thumbImage": "/eyewear/thumbs/shield-sport-black-mirror.webp",
+        "templeColorHex": "#161719",
+        "lensTint": {
+          "hex": "#416e8c",
+          "opacity": 0.42
+        },
+        "anchors": {
+          "leftLensCenterPx": [441.25, 441.5],
+          "rightLensCenterPx": [1323.75, 441.5],
+          "bridgeCenterPx": [882.5, 353.20000000000005],
+          "imageSizePx": [1765, 883]
+        }
+      },
+      {
+        "id": "white-mirror",
+        "colorName": "White / Mirror Silver",
+        "swatchHex": "#dededb",
+        "frameImage": "/eyewear/frames/shield-sport-white-mirror.webp",
+        "productImage": "/eyewear/products/shield-sport-white-mirror.webp",
+        "thumbImage": "/eyewear/thumbs/shield-sport-white-mirror.webp",
+        "templeColorHex": "#c7c7c3",
+        "lensTint": {
+          "hex": "#9ba8ae",
+          "opacity": 0.42
+        },
+        "anchors": {
+          "leftLensCenterPx": [441.25, 441.5],
+          "rightLensCenterPx": [1323.75, 441.5],
+          "bridgeCenterPx": [882.5, 353.20000000000005],
+          "imageSizePx": [1765, 883]
+        }
+      }
+    ]
+  },
+  {
+    "id": "frame-13",
+    "slug": "half-rim-executive",
+    "name": "Half-Rim Executive",
+    "tagline": "A modern icon, in a considered finish.",
+    "description": "Designed for a comfortable, balanced fit, the Half-Rim Executive pairs considered proportions with an easy-to-wear finish.",
+    "category": "optical",
+    "shape": "half-rim",
+    "material": "metal",
+    "price": 55000,
+    "inStock": true,
+    "featured": false,
+    "suitsFaceShapes": ["round", "oval"],
+    "dims": {
+      "frameWidthMm": 140,
+      "lensWidthMm": 52,
+      "lensHeightMm": 38,
+      "bridgeMm": 18,
+      "templeLengthMm": 145
+    },
+    "variants": [
+      {
+        "id": "black",
+        "colorName": "Black",
+        "swatchHex": "#252528",
+        "frameImage": "/eyewear/frames/half-rim-executive-black.webp",
+        "productImage": "/eyewear/products/half-rim-executive-black.webp",
+        "thumbImage": "/eyewear/thumbs/half-rim-executive-black.webp",
+        "templeColorHex": "#171719",
+        "lensTint": {
+          "hex": "#39393b",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [411.75, 412],
+          "rightLensCenterPx": [1235.25, 412],
+          "bridgeCenterPx": [823.5, 329.6],
+          "imageSizePx": [1647, 824]
+        }
+      },
+      {
+        "id": "gunmetal",
+        "colorName": "Gunmetal",
+        "swatchHex": "#5c6065",
+        "frameImage": "/eyewear/frames/half-rim-executive-gunmetal.webp",
+        "productImage": "/eyewear/products/half-rim-executive-gunmetal.webp",
+        "thumbImage": "/eyewear/thumbs/half-rim-executive-gunmetal.webp",
+        "templeColorHex": "#47494d",
+        "lensTint": {
+          "hex": "#70767c",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [411.75, 412],
+          "rightLensCenterPx": [1235.25, 412],
+          "bridgeCenterPx": [823.5, 329.6],
+          "imageSizePx": [1647, 824]
+        }
+      },
+      {
+        "id": "brown",
+        "colorName": "Brown",
+        "swatchHex": "#76533e",
+        "frameImage": "/eyewear/frames/half-rim-executive-brown.webp",
+        "productImage": "/eyewear/products/half-rim-executive-brown.webp",
+        "thumbImage": "/eyewear/thumbs/half-rim-executive-brown.webp",
+        "templeColorHex": "#553c2d",
+        "lensTint": {
+          "hex": "#785f4d",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [411.75, 412],
+          "rightLensCenterPx": [1235.25, 412],
+          "bridgeCenterPx": [823.5, 329.6],
+          "imageSizePx": [1647, 824]
+        }
+      }
+    ]
+  },
+  {
+    "id": "frame-14",
+    "slug": "rimless-air",
+    "name": "Rimless Air",
+    "tagline": "Easy confidence for every day.",
+    "description": "Designed for a comfortable, balanced fit, the Rimless Air pairs considered proportions with an easy-to-wear finish.",
+    "category": "optical",
+    "shape": "rimless",
+    "material": "titanium",
+    "price": 57500,
+    "inStock": true,
+    "featured": false,
+    "suitsFaceShapes": ["square", "heart"],
+    "dims": {
+      "frameWidthMm": 136,
+      "lensWidthMm": 50,
+      "lensHeightMm": 40,
+      "bridgeMm": 18,
+      "templeLengthMm": 145
+    },
+    "variants": [
+      {
+        "id": "silver",
+        "colorName": "Silver",
+        "swatchHex": "#b9bdc2",
+        "frameImage": "/eyewear/frames/rimless-air-silver.webp",
+        "productImage": "/eyewear/products/rimless-air-silver.webp",
+        "thumbImage": "/eyewear/thumbs/rimless-air-silver.webp",
+        "templeColorHex": "#999da2",
+        "lensTint": {
+          "hex": "#777d83",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [400, 400],
+          "rightLensCenterPx": [1200, 400],
+          "bridgeCenterPx": [800, 320],
+          "imageSizePx": [1600, 800]
+        }
+      },
+      {
+        "id": "gold",
+        "colorName": "Gold",
+        "swatchHex": "#c5a15c",
+        "frameImage": "/eyewear/frames/rimless-air-gold.webp",
+        "productImage": "/eyewear/products/rimless-air-gold.webp",
+        "thumbImage": "/eyewear/thumbs/rimless-air-gold.webp",
+        "templeColorHex": "#927442",
+        "lensTint": {
+          "hex": "#78664d",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [400, 400],
+          "rightLensCenterPx": [1200, 400],
+          "bridgeCenterPx": [800, 320],
+          "imageSizePx": [1600, 800]
+        }
+      }
+    ]
+  },
+  {
+    "id": "frame-15",
+    "slug": "retro-oval",
+    "name": "Retro Oval",
+    "tagline": "A thoughtful detail makes all the difference.",
+    "description": "Designed for a comfortable, balanced fit, the Retro Oval pairs considered proportions with an easy-to-wear finish.",
+    "category": "optical",
+    "shape": "oval",
+    "material": "acetate",
+    "price": 60000,
+    "inStock": true,
+    "featured": false,
+    "suitsFaceShapes": ["square", "heart"],
+    "dims": {
+      "frameWidthMm": 138,
+      "lensWidthMm": 50,
+      "lensHeightMm": 40,
+      "bridgeMm": 20,
+      "templeLengthMm": 145
+    },
+    "variants": [
+      {
+        "id": "tortoise",
+        "colorName": "Tortoise",
+        "swatchHex": "#8c5934",
+        "frameImage": "/eyewear/frames/retro-oval-tortoise.webp",
+        "productImage": "/eyewear/products/retro-oval-tortoise.webp",
+        "thumbImage": "/eyewear/thumbs/retro-oval-tortoise.webp",
+        "templeColorHex": "#56381f",
+        "lensTint": {
+          "hex": "#74472b",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [406, 406],
+          "rightLensCenterPx": [1218, 406],
+          "bridgeCenterPx": [812, 324.8],
+          "imageSizePx": [1624, 812]
+        }
+      },
+      {
+        "id": "black",
+        "colorName": "Black",
+        "swatchHex": "#252528",
+        "frameImage": "/eyewear/frames/retro-oval-black.webp",
+        "productImage": "/eyewear/products/retro-oval-black.webp",
+        "thumbImage": "/eyewear/thumbs/retro-oval-black.webp",
+        "templeColorHex": "#171719",
+        "lensTint": {
+          "hex": "#39393b",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [406, 406],
+          "rightLensCenterPx": [1218, 406],
+          "bridgeCenterPx": [812, 324.8],
+          "imageSizePx": [1624, 812]
+        }
+      },
+      {
+        "id": "crystal-pink",
+        "colorName": "Crystal Pink",
+        "swatchHex": "#d4a6a8",
+        "frameImage": "/eyewear/frames/retro-oval-crystal-pink.webp",
+        "productImage": "/eyewear/products/retro-oval-crystal-pink.webp",
+        "thumbImage": "/eyewear/thumbs/retro-oval-crystal-pink.webp",
+        "templeColorHex": "#bd9296",
+        "lensTint": {
+          "hex": "#b98d91",
+          "opacity": 0.08
+        },
+        "anchors": {
+          "leftLensCenterPx": [406, 406],
+          "rightLensCenterPx": [1218, 406],
+          "bridgeCenterPx": [812, 324.8],
+          "imageSizePx": [1624, 812]
+        }
+      }
+    ]
+  },
+  {
+    "id": "frame-16",
+    "slug": "navigator-double-bridge",
+    "name": "Navigator Double-Bridge",
+    "tagline": "A modern icon, in a considered finish.",
+    "description": "Designed for a comfortable, balanced fit, the Navigator Double-Bridge pairs considered proportions with an easy-to-wear finish.",
+    "category": "sunglasses",
+    "shape": "navigator",
+    "material": "metal",
+    "price": 62500,
+    "inStock": true,
+    "featured": false,
+    "suitsFaceShapes": ["oval", "heart"],
+    "dims": {
+      "frameWidthMm": 142,
+      "lensWidthMm": 57,
+      "lensHeightMm": 48,
+      "bridgeMm": 15,
+      "templeLengthMm": 145
+    },
+    "variants": [
+      {
+        "id": "gold-green",
+        "colorName": "Gold / Green",
+        "swatchHex": "#c29a54",
+        "frameImage": "/eyewear/frames/navigator-double-bridge-gold-green.webp",
+        "productImage": "/eyewear/products/navigator-double-bridge-gold-green.webp",
+        "thumbImage": "/eyewear/thumbs/navigator-double-bridge-gold-green.webp",
+        "templeColorHex": "#8c6e3b",
+        "lensTint": {
+          "hex": "#344b41",
+          "opacity": 0.42
+        },
+        "anchors": {
+          "leftLensCenterPx": [417.75, 418],
+          "rightLensCenterPx": [1253.25, 418],
+          "bridgeCenterPx": [835.5, 334.40000000000003],
+          "imageSizePx": [1671, 836]
+        }
+      },
+      {
+        "id": "black-grey",
+        "colorName": "Black / Grey",
+        "swatchHex": "#252528",
+        "frameImage": "/eyewear/frames/navigator-double-bridge-black-grey.webp",
+        "productImage": "/eyewear/products/navigator-double-bridge-black-grey.webp",
+        "thumbImage": "/eyewear/thumbs/navigator-double-bridge-black-grey.webp",
+        "templeColorHex": "#171719",
+        "lensTint": {
+          "hex": "#606a72",
+          "opacity": 0.42
+        },
+        "anchors": {
+          "leftLensCenterPx": [417.75, 418],
+          "rightLensCenterPx": [1253.25, 418],
+          "bridgeCenterPx": [835.5, 334.40000000000003],
+          "imageSizePx": [1671, 836]
+        }
+      }
+    ]
+  }
+]
