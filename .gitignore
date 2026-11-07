@@ -3,6 +3,7 @@ node_modules/
 .pnpm-cache/
 .next/
 out/
+outputs/
 coverage/
 work/
 test-results/
